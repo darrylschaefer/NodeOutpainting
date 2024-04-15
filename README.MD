@@ -4,7 +4,15 @@
 
 This script takes an input image, divides it into four squares, uses the Dall-E 2 OpenAI API point to extend these images and reassembles them into a larger (2048px x 2048px) image.
 
-You can use it to outpaint or extend Dall-E 2 or 3 generations so long as the input generation is 1024px by 1024px.
+You can use it to outpaint or extend (Dall-E 2, Dall-E 3) generations as long as the input generation is 1024px by 1024px.
+
+Before:
+
+![github1](https://github.com/darrylschaefer/NodeOutpainting/assets/119073511/8b251194-e271-40f7-808f-3ac590c87e1e)
+
+After:
+
+![github2](https://github.com/darrylschaefer/NodeOutpainting/assets/119073511/15fc4d6a-8e1f-4620-b9bc-8f4713bda1bf)
 
 ## Installation
 
